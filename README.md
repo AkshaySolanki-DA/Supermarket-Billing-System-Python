@@ -29,6 +29,3 @@ It allows users to enter item names and quantities, fetches prices from a predef
  ## Output
 <img width="545" height="295" alt="image" src="https://github.com/user-attachments/assets/bbafcd64-985a-459f-a9d1-d47d3c509ce0" />
 
-
-===================================
-Thank you for shopping with us!
