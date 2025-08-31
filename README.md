@@ -20,7 +20,7 @@ It allows users to enter item names and quantities, fetches prices from a predef
 ## ⚡ How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/AkshaySolanki-DA/Supermarket-Billing-System-Python
+   git clone https://github.com/AkshaySolanki-DA/Supermarket-Billing-System-Python.git
   2. Install Jupyter Notebook
      pip install notebook
 3. Open the notebook
