@@ -25,8 +25,11 @@ It allows users to enter item names and quantities, fetches prices from a predef
      pip install notebook
 3. Open the notebook
    jupyter notebook Supermarket_Billing_System.ipynb
+
+
 🖥️ Example Output
-========== ITEMIZED BILL ==========
+
+**========== ITEMIZED BILL ==========
 Item            Quantity        Price/Unit   Total
 -------------------------------------------------------
 Rice            5.0 kg          50.00        250.00
@@ -36,5 +39,7 @@ Apple           1.5 kg          120.00       180.00
 Subtotal:                              490.00
 Discount:                              24.50
 Final Total:                           465.50
+**
+
 ===================================
 Thank you for shopping with us!
